@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>一些小记录 on 一些作品</title>
-    <link>https://yuri-kon.github.io/Lecture/</link>
+    <link>http://localhost:1313/Lecture/</link>
     <description>Recent content in 一些小记录 on 一些作品</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yuri-kon.github.io/Lecture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Lecture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>表达与真实</title>
-      <link>https://yuri-kon.github.io/Lecture/lectures/representation-and-reality/</link>
+      <link>http://localhost:1313/Lecture/lectures/representation-and-reality/</link>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/lectures/representation-and-reality/</guid>
+      <guid>http://localhost:1313/Lecture/lectures/representation-and-reality/</guid>
       <description>第一次在编剧部同学面前进行讲演</description>
     </item>
     <item>
       <title>给死一袋巧克力粉</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/chocolate/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/chocolate/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/chocolate/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/chocolate/</guid>
       <description>一段总结</description>
     </item>
     <item>
       <title>微醺</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/slightlydrunk/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/slightlydrunk/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/slightlydrunk/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/slightlydrunk/</guid>
       <description>我要背对你喜欢</description>
     </item>
     <item>
       <title>雪的误解</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/misread/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/misread/</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/misread/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/misread/</guid>
       <description>和室友圣诞节出游后写就</description>
     </item>
     <item>
       <title>冬日浪漫</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/romanceinwinter/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/romanceinwinter/</link>
       <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/romanceinwinter/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/romanceinwinter/</guid>
       <description>&lt;p&gt;“哈尔滨没有浪漫。”汐用房卡扫开门时，说。&lt;/p&gt;
 &lt;p&gt;“怎么会？”明从汐的指尖摘走房卡，推进插卡机，空调“滴”了一声。她摘下围巾的时候，汐顺手打开了灯。“一路上不还挺浪漫的吗？有雪有花店，什么的。”&lt;/p&gt;
 &lt;p&gt;汐用手指和四枚开关切磋，却盯着明的面容在闪烁的灯光下明灭，像穿行在林荫路。她将灯光调到自己喜欢的位置，脱下羽绒服刚准备挂上衣架，瞥见明的围巾已盘在被褥上了。反正待会儿这里会更乱。这样想着，她随手将外衣丢到了椅背。&lt;/p&gt;
@@ -100,65 +100,65 @@
     </item>
     <item>
       <title>散步</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/walk/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/walk/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/walk/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/walk/</guid>
       <description>由于对计划中的散步的想象</description>
     </item>
     <item>
       <title>拐杖的行军</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/army/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/army/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/army/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/army/</guid>
       <description>对于修辞密度低级的着迷</description>
     </item>
     <item>
       <title>仿抒情歌</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/fang/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/fang/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/fang/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/fang/</guid>
       <description>对于川端康成的一次模仿</description>
     </item>
     <item>
       <title>开往寒北的列车</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/train/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/train/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/train/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/train/</guid>
       <description>上大学之后的第二篇文章</description>
     </item>
     <item>
       <title>夕阳</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/dusk/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/dusk/</link>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/dusk/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/dusk/</guid>
       <description>写于春天的某个晚上</description>
     </item>
     <item>
       <title>洋桔梗</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/eustoma/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/eustoma/</link>
       <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/eustoma/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/eustoma/</guid>
       <description>上大学之后的第一篇小说, 人名为了隐私进行了替换</description>
     </item>
     <item>
       <title>雨</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/rain/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/rain/</link>
       <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/rain/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/rain/</guid>
       <description>被我忘记的一件事</description>
     </item>
     <item>
       <title>臆想</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/selfthinking/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/selfthinking/</link>
       <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/selfthinking/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/selfthinking/</guid>
       <description>这是我在大一刚入学面试编剧部时花了三天写的文章</description>
     </item>
     <item>
       <title>夜风</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/nightwind/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/nightwind/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/nightwind/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/nightwind/</guid>
       <description>&lt;p&gt;春的风，从浮冰的河水中飞出，散开薄云，寒了新月。&lt;/p&gt;
 &lt;p&gt;窗台很凉。夜空中飘荡的风很凉。我摸摸耳朵，冰块一样。冬季是漫长的，即便已经立春，寒气仍然不可避免地从泥土间、溪水里漫出，从阴沉的天空中倾泻。我趴在阳台，将上半身探至空中，当然不是为了受冻。我在找些什么，幽灵般虚无但确实为我所见的东西。&lt;/p&gt;
 &lt;p&gt;自这学期开学，每晚我站在阳台向外张望时，湿漉漉的头发贴在脸上，风翻舞着水珠。我的眼前总是会闪过一道影子。并不是小鸟一般飞过，而是模模糊糊地，在林立的高楼间，从零星的灯光间滑过。我有时能看见它如俯冲的燕子从二十多层高的位置，射向几层楼的人家窗口处；有时又见它悬浮于某扇亮灯的窗前，上下微微浮动。我称它为影子，因为当被我看见时，它总是附于高楼的墙壁或窗户上的，极像从某处投射至平面上的影子。可它那种自由自在的移动，不可能是影子所能做到的。&lt;/p&gt;
@@ -221,37 +221,37 @@
     </item>
     <item>
       <title>雨夜</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/rainnight/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/rainnight/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/rainnight/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/rainnight/</guid>
       <description>这里记不住写作时间了, 大概在2020年到2021年, 记录时间为整理到电脑中的时间</description>
     </item>
     <item>
       <title>秋, 雨夜, 麦哲伦</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/autuam/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/autuam/</link>
       <pubDate>Wed, 10 Aug 2022 02:48:11 +0800</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/autuam/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/autuam/</guid>
       <description>未记录写作时间.但不早于2020年, 最初投稿在B站. 这是我第一篇获得了两百以上阅读量的文章, 并因此加入了明日方舟的一个同人文写作组织</description>
     </item>
     <item>
       <title>寒蝉</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/hanchan/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/hanchan/</link>
       <pubDate>Wed, 10 Aug 2022 02:45:43 +0800</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/hanchan/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/hanchan/</guid>
       <description>同样未记录写作时间. 大概在21或20年夏天</description>
     </item>
     <item>
       <title>偶像星极在旅舍</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/inhotel/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/inhotel/</link>
       <pubDate>Wed, 10 Aug 2022 02:41:27 +0800</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/inhotel/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/inhotel/</guid>
       <description>同样没记录写作时间, 大概在22年三四月份或21年七八月份</description>
     </item>
     <item>
       <title>泡泡</title>
-      <link>https://yuri-kon.github.io/Lecture/oldnovels/bubble/</link>
+      <link>http://localhost:1313/Lecture/oldnovels/bubble/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://yuri-kon.github.io/Lecture/oldnovels/bubble/</guid>
+      <guid>http://localhost:1313/Lecture/oldnovels/bubble/</guid>
       <description>&lt;p&gt;盛暑，医院门前的阴影里，蜷着一个孩子。他的面前放着一个天蓝色的盆，盆中的水泛起一层泡泡。孩子用一只和牛奶的吸管，截了一小段水，半仰起头，眯着眼轻轻吹了一口气，叹息一般。泡泡映着刺目的阳光，在倒扣的盆一样的蓝色天空中，渐渐透明，轻薄，而后无声地碎裂。&lt;/p&gt;
 &lt;p&gt;几点水滴溅到了医院五楼的窗子上。临窗摆着一张小巧的写字桌，光滑的桌面发着光，像从未有人使用过。病房里有三张床位，最里面的已经空了，昨天才换的床单被褥。明亮的日光打在洁白的床单上，光里细尘安静地沉降。&lt;/p&gt;
 &lt;p&gt;“姐姐？写完作业了吗？”&lt;/p&gt;
