@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Foucault: A Very Short Story on 一些作品</title>
+    <link>https://yuri-kon.github.io/Lecture/readingnotes/foucault_a_very_short_story/</link>
+    <description>Recent content in Foucault: A Very Short Story on 一些作品</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yuri-kon.github.io/Lecture/readingnotes/foucault_a_very_short_story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第零章</title>
+      <link>https://yuri-kon.github.io/Lecture/readingnotes/foucault_a_very_short_story/chapter0/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://yuri-kon.github.io/Lecture/readingnotes/foucault_a_very_short_story/chapter0/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;h3 id=&#34;缩略语&#34;&gt;缩略语&lt;/h3&gt;
+&lt;p&gt;以下缩略语在书中用于指代福柯的作品：&lt;/p&gt;
+&lt;h4 id=&#34;福柯的书籍专著&#34;&gt;福柯的书籍/专著&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AK&lt;/strong&gt;: &lt;em&gt;The Archaeology of Knowledge&lt;/em&gt;(《知识考古学》),艾伦·谢里丹译（纽约：维京出版社，1972年）。另收录 &lt;em&gt;The Discourse on Language&lt;/em&gt;(DL)(《论语言》)，系福柯在法国高等研究院的就职演讲《话语的秩序》译本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BC&lt;/strong&gt;: &lt;em&gt;The Birth of the Clinic&lt;/em&gt;(《临床医学的诞生》)，艾伦·谢里丹译（纽约：维京出版社，1973年）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CS&lt;/strong&gt;: &lt;em&gt;The Care Of Self&lt;/em&gt;(《自我关怀》)，&lt;em&gt;The History of Sexuality&lt;/em&gt;的第三卷，罗伯特·赫尔利译（纽约：维京出版社，1986年）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HF&lt;/strong&gt;: &lt;em&gt;Histoire de la folie à l’âge classique&lt;/em&gt;(《古典时代疯狂史》)，（巴黎：伽利玛出版社，1972年）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HS&lt;/strong&gt;: &lt;em&gt;The History of Sexuality&lt;/em&gt;, Volume 1: &lt;em&gt;An Introduction&lt;/em&gt;(《性经验史》第一卷：导论)，罗伯特·赫尔利译（纽约：维京出版社，1978年）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DP&lt;/strong&gt;: &lt;em&gt;Discipline and Punish&lt;/em&gt;(《规训与惩罚》)，艾伦·谢里丹译（纽约：维京出版社，1977年）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MC&lt;/strong&gt;: &lt;em&gt;Madness and Civilization&lt;/em&gt;(《疯癫与文明》)，理查德·霍华德译（纽约：维京出版社，1965年）。此为HF的极大删节译本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OT&lt;/strong&gt;: &lt;em&gt;The Order of Things&lt;/em&gt;(《词与物》)，艾伦·谢里丹译（纽约：维京出版社，1970年）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;RR&lt;/strong&gt;: &lt;em&gt;Death and Labyrinth: The World of Raymond Roussel&lt;/em&gt;(《死亡与迷宫：雷蒙·鲁塞尔的世界》)，查尔斯·鲁阿斯译（纽约：花园城双日出版社，1986年）。翻译自雷蒙·鲁塞尔作品，包含查尔斯·鲁阿斯对福柯的访谈。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;UP&lt;/strong&gt;: &lt;em&gt;The Use of Pleasure&lt;/em&gt;, Volume 2 of &lt;em&gt;The History of Sexuality&lt;/em&gt;(《享乐的用途》，《性经验史》第二卷)，罗伯特·赫尔利译（纽约：维京出版社，1985年）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;福柯文章讲座与访谈集&#34;&gt;福柯文章、讲座与访谈集&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;DE&lt;/strong&gt;: Daniel Defert and Francois Ewald (eds), Dits et Ecrits,1954-1988, four volumes(丹尼尔·德费尔与弗朗索瓦·埃瓦尔德（编），《言说与写作：1954-1988》，四卷本)，巴黎：伽利玛出版社，1994。收录了除著作外福柯发表的几乎所有作品。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EW&lt;/strong&gt;: &lt;em&gt;The Essential Works of Michel Foucault&lt;/em&gt;(《米歇尔·福柯文集》)保罗·拉比诺编。三卷本译作，选自《言说与写作》。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EW I&lt;/strong&gt;: &lt;em&gt;Volume 1, Ethics: Subjectivity and Truth&lt;/em&gt; (卷一《伦理学：主体性与真理》)，保罗·拉比诺编，罗伯特·赫尔利等译（纽约：新出版社，1997年）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EW II&lt;/strong&gt;: &lt;em&gt;Volume 2, Aesthetics: Method and Epistemology&lt;/em&gt; (卷二《美学：方法与认识论》)，詹姆斯·福比恩编，罗伯特·赫尔利等译（纽约：新出版社，1998年）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EW III&lt;/strong&gt;: &lt;em&gt;Volume 3, Power&lt;/em&gt; (卷三《权力》)，詹姆斯·福比恩编，罗伯特·赫尔利等译（纽约：新出版社，2000年）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;P/K&lt;/strong&gt;: &lt;em&gt;Power/Knowledge: Selected Interviews and Other Writings,1972-1977&lt;/em&gt; (《权力/知识：1972-1977年访谈选集及其他文集》)，科林·戈登编，纽约：万神殿出版社，1980年&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;PPC&lt;/strong&gt;: &lt;em&gt;Michel Foucault: Philosophy, Politics, Culture&lt;/em&gt; (《米歇尔·福柯：哲学、政治、文化》)，劳伦斯·克里茨曼编，艾伦·谢里丹译，伦敦：劳特利奇出版社，1988年&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;后两部文集收录了若干未收录于EW的重要篇目&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
